@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="obj_viewer\main.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="24" Column="1"/>
+		</File>
+		<File Name="obj_viewer\scenemanager.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="16" Column="15"/>
+		</File>
+		<File Name="obj_viewer\scenemanager.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="7" Column="54"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="obj_viewer" Expanded="Yes"/>
+	</Folders>
+</Layout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="Object\main.cpp" Top="Yes" Tabpos="1" TopLine="44">
+			<Cursor Line="77" Column="41"/>
+			<Selection Line="78" Column="44"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="Object" Expanded="Yes"/>
+	</Folders>
+</Layout>

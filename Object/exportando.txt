@@ -1,0 +1,13 @@
+no blender clique em File->Export
+Selecione 
+Include Edges
+Include Normals
+Keep Vertex Order
+
+Desmarque
+Apply Modifiers
+Include UVs
+Write Materials
+Objects as OBJ Objects
+
+clique em Export OBJ

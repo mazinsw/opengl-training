@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="Cubo\main.cpp" Top="No" Tabpos="5" TopLine="38">
+			<Cursor Line="62" Column="1"/>
+			<Selection Line="65" Column="41"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="Cubo" Expanded="Yes"/>
+	</Folders>
+</Layout>

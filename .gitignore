@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.o
+Thumbs.db
+Exemplos
+Documentos
+.svn
