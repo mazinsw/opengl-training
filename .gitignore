@@ -5,3 +5,7 @@ Thumbs.db
 Exemplos
 Documentos
 .svn
+*.zip
+stderr.txt
+stdout.txt
+opengl_training
